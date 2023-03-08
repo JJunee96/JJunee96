@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=25&duration=4000&pause=1000&color=277BF7CA&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&width=435&lines=Hello%2C+JJunee+World!;This+world+is+so+random!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=25&duration=4000&pause=1000&color=277BF7CA&width=435&lines=Hello%2C+JJunee+World!;This+world+is+so+random!)](https://git.io/typing-svg)
 
 <!--
 **JJunee96/JJunee96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
