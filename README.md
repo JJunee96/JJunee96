@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=25&duration=4000&pause=1000&color=277BF7CA&width=435&lines=Hello%2C+JJunee+World!;This+world+is+so+random!)](https://git.io/typing-svg)
-
+![header](https://capsule-render.vercel.app/api?type=waving)
 <!--
 **JJunee96/JJunee96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
