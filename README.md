@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFD5FEFF&height=150&section=header&text="!"&fontColor=FFFFFFFF&fontSize=55&animation=fadeIn&fontAlignY=30)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=25&duration=4000&pause=1000&color=FFD5FEFF&width=435&lines=Hello%2C+JJunee+World;This+world+is+so+random!!)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:242424FF,100:B3B3B3FF&height=150&section=header&text="!"&fontColor=FFFFFFFF&fontSize=55&animation=fadeIn&fontAlignY=30)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=25&duration=4000&pause=1000&color=B3B3B3FF&width=435&lines=Hello%2C+JJunee+World;This+world+is+so+random!!)](https://git.io/typing-svg)
 <!--
 **JJunee96/JJunee96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJunee96&theme=jolly&show_icons=true&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJunee96&theme=jolly&hide_progress=true)](https://github.com/JJunee96/github-readme-stats)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJunee96&theme=graywhite&show_icons=true&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJunee96&theme=graywhite&hide_progress=true)](https://github.com/JJunee96/github-readme-stats)  
 <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=lightgrey"/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
