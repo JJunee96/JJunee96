@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:242424FF,100:B3B3B3FF&height=150&section=header&text="!"&fontColor=FFFFFFFF&fontSize=55&animation=fadeIn&fontAlignY=30)
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=25&duration=4000&pause=1000&color=B3B3B3FF&width=435&lines=Hello%2C+JJunee+World;This+world+is+so+random!!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=25&duration=4000&pause=1000&color=B3B3B3FF&width=435&lines=Hello%2C+JJunee+World👋;This+world+is+so+random🌏)](https://git.io/typing-svg)
 </div>
 
 <!--
@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJunee96&theme=graywhite&show_icons=true&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJunee96&theme=graywhite&hide_progress=true)](https://github.com/JJunee96/github-readme-stats)  
+### 안녕하세요, JJunee입니다👋
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 
