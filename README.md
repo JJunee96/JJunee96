@@ -17,8 +17,10 @@ Today/Total 방문자수 표시
 
 
 ### 📖Use Language📖
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=Microsoft SQL Server&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 
+### 🔨Use Tool🔨
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=Microsoft SQL Server&logoColor=white">
 <!--
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=aws&logoColor=white">
