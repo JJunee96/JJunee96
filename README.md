@@ -15,9 +15,9 @@ Today/Total 방문자수 표시
 다양성과 창의적인 개발을 추구합니다💻  
 
 ### Introduce
-- Name: Cho Won June
+- Name : Cho Won June
 - Email : wnsltkak@naver.com
-- SNS　: <a href="https://www.instagram.com/jjunee__/" target="_blank"><img src="https://img.shields.io/badge/JJunee__-E4405F?style=flat&logo=Instagram&logoColor=white">
+- SNS : <a href="https://www.instagram.com/jjunee__/" target="_blank"><img src="https://img.shields.io/badge/JJunee__-E4405F?style=flat&logo=Instagram&logoColor=white">
 - Road
   - 2021.12.28 ~ 2022.12.28 : KNIC (ERP 구축회사)
   - 2023.01.30 ~ 　　　　　: 부경대 IoT개발자 인력양성 프로젝트 참여  
