@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:242424FF,100:B3B3B3FF&height=150&section=header&text="!"&fontColor=FFFFFFFF&fontSize=55&animation=fadeIn&fontAlignY=30)
 <div align="center">
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=25&duration=4000&pause=1000&color=B3B3B3FF&width=435&lines=Welcome%2C+JJunee+World👋;This+world+is+so+random🌏)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=25&duration=4000&pause=1000&color=B3B3B3FF&width=380&lines=Welcome%2C+JJunee+World👋;This+world+is+so+random🌏)](https://git.io/typing-svg)
 </div>
 
 <!--
