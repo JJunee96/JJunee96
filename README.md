@@ -24,9 +24,7 @@ Today/Total 방문자수 표시
   - 2023.01.30 ~ 　　　　　: 부경대 IoT개발자 인력양성 프로젝트 참여  
 <br/><br/><br/>
 ## 📖Use Language📖
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Cpp-3776AB?style=flat&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/CSharp-3776AB?style=flat&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Cpp-00599C?style=flat&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=Python&logoColor=white">
 <br/>
   
 ## 🔨Use Tool🔨
