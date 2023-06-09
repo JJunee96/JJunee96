@@ -28,11 +28,13 @@ Today/Total 방문자수 표시
 <br/>
   
 ## 🔨Use Tool🔨
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=Microsoft SQL Server&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=Microsoft SQL Server&logoColor=white"><img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=visualstudio&logoColor=white"><img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 <!--
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=aws&logoColor=white">
 --> 
+## 📌Skill📌
+<img src="https://img.shields.io/badge/.net-512BD4?style=flat&logo=dotnet&logoColor=white">
 <br/>
  
 ## 🌱My Github🌱
