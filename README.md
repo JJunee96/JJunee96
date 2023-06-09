@@ -34,7 +34,7 @@ Today/Total 방문자수 표시
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=aws&logoColor=white">
 --> 
 ## 📌Skill📌
-<img src="https://img.shields.io/badge/.net-512BD4?style=flat&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/.net-512BD4?style=flat&logo=dotnet&logoColor=white"><img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white">
 <br/>
  
 ## 🌱My Github🌱
