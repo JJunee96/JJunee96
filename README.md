@@ -21,7 +21,8 @@ Today/Total 방문자수 표시
 - SNS : <a href="https://www.instagram.com/jjunee__/" target="_blank"><img src="https://img.shields.io/badge/JJunee__-E4405F?style=flat&logo=Instagram&logoColor=white">
 - Road
   - 2021.12.28 ~ 2022.12.28 : KNIC (ERP 구축회사)
-  - 2023.01.30 ~ 2023.09.01(예정) : 부경대 IoT개발자 인력양성 프로젝트 참여  
+  - 2023.01.30 ~ 2023.09.01(예정) : 부경대 IoT개발자 인력양성 프로젝트 참여
+  - 2023.09.05 ~ : ACS (MES 기술부)
 <br/><br/><br/>
 ## 📖Use Language📖
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Cpp-00599C?style=flat&logo=cplusplus&logoColor=white"><img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=CSharp&logoColor=white">
